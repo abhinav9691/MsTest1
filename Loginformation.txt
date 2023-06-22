@@ -1,0 +1,2 @@
+﻿2023-05-26 15:25:29.4678 INFO Addition=5
+2023-05-26 15:26:15.9100 ERROR a and b values are zero
